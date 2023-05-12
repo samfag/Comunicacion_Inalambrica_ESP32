@@ -7,7 +7,6 @@ Herramientas a utilizar:
 -	Arduino IDE 1.8.19 ó posterior
 -	Plataforma IoT (Ubidots)
 -	Tarjeta de desarrollo ESP WROOM 32 
--	Servidor Ubidots
 -	Plataforma App Inventor
 -	Sensores (Ultrasonico, LM35, DHT11)
 
